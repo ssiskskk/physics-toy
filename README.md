@@ -1,5 +1,5 @@
-BFDI physics toy
+Physics toy
 ================
 
-A web toy featuring BFDI characters.
+A web toy featuring random characters.
 
